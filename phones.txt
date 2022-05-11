@@ -2,4 +2,6 @@
 2) iphone 12
 3) android 10
 4) android 11
-
+5) xiami p20
+6) xiaomi p40
+7) samsung s20
